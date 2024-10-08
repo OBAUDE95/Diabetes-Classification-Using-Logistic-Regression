@@ -1,0 +1,2 @@
+# Diabetes-Classification-Using-Logistic-Regression
+This project aims to develop a logistic regression model to predict diabetes risk based on various health metrics. It includes data preprocessing, exploratory data analysis, and model evaluation using confusion matrices and classification reports. The findings highlight significant correlations, informing health risk assessments and interventions.
